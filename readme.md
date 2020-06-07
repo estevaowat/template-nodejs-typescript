@@ -1,19 +1,10 @@
-VUTTR
+# Welcome
 
-This project is to a challenge to bossabox to manage useful tools with names, links, descriptions and tags.
+This is a template for Node applications using typescript and Express.
 
-Stack
+- Eslint
+- Prettier
+- Editorconfig
 
-- Node
 - Express
-- Postgres
-- Typeorm
 - Jest
-
-Tests
-
-```bash
-yarn test
-```
-# template-nodejs-typescript
-# template-nodejs-typescript
